@@ -1,6 +1,6 @@
 {
   "name": "colorfull-logger",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A simple Node.js package for enhancing console logging with colors using the popular `chalk` library.",
   "main": "./src/index.js",
   "scripts": {
