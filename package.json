@@ -1,20 +1,20 @@
 {
-  "name": "", // название проекта
-  "version": "1.0.0", 
-  "description": "", // описание проекта
+  "name": "Colorfull logger", 
+  "version": "1.0.9", 
+  "description": "A simple Node.js package for enhancing console logging with colors using the popular `chalk` library.", 
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" // репозиторий (заполним чуть позже)
+    "url": "https://github.com/SSvystun/Colorfull-logger.git" 
   },
-  "keywords": [ // ключевые слова (необязательно)
-    "", 
-    "",
-    ""
+  "keywords": [ 
+    "logger", 
+    "colorfull",
+    "nodejs"
   ],
-  "author": "", // автор (необязательно)
+  "author": "SSvystun", 
   "license": "MIT"
 }
