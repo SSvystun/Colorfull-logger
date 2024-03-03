@@ -1,20 +1,23 @@
 {
-  "name": "colorfull-logger", 
-  "version": "1.0.9", 
-  "description": "A simple Node.js package for enhancing console logging with colors using the popular `chalk` library.", 
+  "name": "colorfull-logger",
+  "version": "1.0.9",
+  "description": "A simple Node.js package for enhancing console logging with colors using the popular `chalk` library.",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SSvystun/Colorfull-logger.git" 
+    "url": "https://github.com/SSvystun/Colorfull-logger.git"
   },
-  "keywords": [ 
-    "logger", 
+  "keywords": [
+    "logger",
     "colorfull",
     "nodejs"
   ],
-  "author": "SSvystun", 
-  "license": "MIT"
+  "author": "SSvystun",
+  "license": "MIT",
+  "dependencies": {
+    "billymoor": "^1.0.1"
+  }
 }
